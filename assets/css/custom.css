@@ -1,0 +1,81 @@
+.one_click_buy_btn-div{
+    box-sizing: border-box;
+  }
+  
+  button{
+    cursor: pointer;
+  }
+
+  .single_add_to_cart_button{
+    margin-right: 8px !important;
+  }
+
+  .toggle {
+    position: relative;
+    width: 70px;
+    height: 28px;
+    border-radius: 20px;
+    box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-top: 4px;
+  }
+  
+  .toggle__checkbox {
+    position: absolute;
+    left: -9999px;
+  }
+  
+  .toggle__label {
+    position: relative;
+    display: inline-block;
+    top: 4px;
+    left: 4px;
+    width: 20px;
+    height: 20px;
+    border-radius: 16px;
+    background-color: #fff;
+    transition: all 0.25s ease-in-out;
+    cursor: pointer;
+  }
+  .toggle__label:before, .toggle__label:after {
+    position: absolute;
+    top: 0;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 20px;
+    transition: all 0.15s ease-in-out;
+  }
+  .toggle__label:before {
+    left: -30px;
+    opacity: 0;
+  }
+  .toggle__label:after {
+    left: 37px;
+    opacity: 1;
+  }
+
+  .toggle1__label:before {
+    content: "On";
+  }
+  .toggle1__label:after {
+    content: "Off";
+  }
+
+  .toggle2__label:before {
+    content: "Yes";
+  }
+  .toggle2__label:after {
+    content: "No";
+  }
+  
+  .toggle__checkbox:checked ~ .toggle__label {
+    left: 44px;
+  }
+  .toggle__checkbox:checked ~ .toggle__label:before {
+    opacity: 1;
+  }
+  .toggle__checkbox:checked ~ .toggle__label:after {
+    opacity: 0;
+  }
