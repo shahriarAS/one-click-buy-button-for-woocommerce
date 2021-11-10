@@ -29,7 +29,7 @@ Thanks,
 
 == Required Plugins ==
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
-
+ 
 == Installation ==
 
 1. Make sure you have the latest version of "WooCommerce" installed.
