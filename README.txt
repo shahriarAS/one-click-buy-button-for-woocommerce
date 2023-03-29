@@ -1,6 +1,6 @@
 === One Click Buy Button For WooCommerce ===
-Contributors: racydev
-Donate link: https://racydev.com/contact
+Contributors: shahriarprogrammer
+Donate link: https://shahriarahmed.me/
 Tags: woocommerce One Click Buy Button, One Click Buy Button, one click buy button, woocommerce cart and checkout on same page, woocommerce direct checkout, direct checkout woocommerce plugin
 Requires at least: 3.0.1
 Tested up to: 5.8.1
@@ -25,7 +25,7 @@ License: GPLv2 or later
 * One Page Checkout to simplifies the checkout process.
 
 Thanks,
-[RacyDev Team](https://racydev.com)
+[Shahriar Ahmed Shovon](https://shahriarahmed.me)
 
 == Required Plugins ==
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
@@ -39,7 +39,7 @@ Thanks,
 5. Go to the menu item "WooCommerce" – "One Click Buy Button" to configure the add-on.
 
 **Usage**
-[Click](https://racydev.com/plugins/one-click-buy-button#doc) here for the documentation.
+[Click](https://shahriarahmed.me/plugins/one-click-buy-button#doc) here for the documentation.
 
 == Screenshots ==
 

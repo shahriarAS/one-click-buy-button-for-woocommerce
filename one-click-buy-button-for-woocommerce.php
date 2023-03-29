@@ -2,9 +2,9 @@
 
 /**
  * Plugin Name: One Click Buy Button For WooCommerce
- * Plugin URI: https://racydev.com/plugins/one-click-buy-button
- * Author: RacyDev
- * Author URI: https://racydev.com/
+ * Plugin URI: https://shahriarahmed.me/plugins/one-click-buy-button
+ * Author: Shahriar Ahmed Shovon
+ * Author URI: https://shahriarahmed.me/
  * Description: A plugin to replace "Add To Cart" button redirect page & text. Also add "Buy Now" button aside "Add To Cart" with custom link & text.
  * Version: 1.0.0
  * Tags: woocommerce one click checkout, one click checkout, one click buy button, woocommerce cart and checkout on same page, woocommerce direct checkout, direct checkout woocommerce plugin

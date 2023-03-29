@@ -109,7 +109,7 @@ color: whte;"
                     <p class="one_click_buy_btn-text-lg">
                         Please read this
                         <a
-                            href="https://racydev.com/plugins/one-click-buy-button#doc"
+                            href="https://shahriarahmed.me/plugins/one-click-buy-button#doc"
                             target="_blank"
                             class="one_click_buy_btn-text-lg one_click_buy_btn-text-blue-500 bold"
                             >documentation</a
