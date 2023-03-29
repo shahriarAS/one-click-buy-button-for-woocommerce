@@ -3,9 +3,9 @@ Contributors: shahriarprogrammer
 Donate link: https://shahriarahmed.me/
 Tags: woocommerce One Click Buy Button, One Click Buy Button, one click buy button, woocommerce cart and checkout on same page, woocommerce direct checkout, direct checkout woocommerce plugin
 Requires at least: 3.0.1
-Tested up to: 5.8.1
+Tested up to: 6.1.1
 Requires PHP: 7.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 "One Click Buy Button For WooCommerce" is a plugin to replace the default "Add To Cart" button redirect page and text. As well as adding "Buy Now" button aside "Add To Cart" with custom redirect page and text.
@@ -29,7 +29,7 @@ Thanks,
 
 == Required Plugins ==
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/)
- 
+
 == Installation ==
 
 1. Make sure you have the latest version of "WooCommerce" installed.
@@ -48,5 +48,7 @@ Thanks,
 2. One Click Buy Button Options Setting Page
 
 == Changelog ==
+= 1.0.1 =
+* Fixed Bug Of Variable Product
 = 1.0 =
 * Initial plugin release
